@@ -1,1 +1,1 @@
-this repository contain shell basics
+system deveps
