@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "bin" passw | wc -1
